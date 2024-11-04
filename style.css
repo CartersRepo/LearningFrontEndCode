@@ -1,0 +1,20 @@
+body {
+    background-color: blueviolet;
+    color: blueviolet;
+}
+div, h1, p {
+    background-color: blue;
+    color: white;
+}
+.font-red {
+    color: red
+}
+#unique {
+    border: 5px solid black;
+}
+.bg-blue {
+    background-color: blue;
+}
+.bg-yellow {
+    background-color: yellow;
+}
