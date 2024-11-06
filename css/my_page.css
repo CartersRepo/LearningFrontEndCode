@@ -1,0 +1,14 @@
+body {
+            background-color: #b9b4b4;
+        }
+        a {
+            color: black;
+        }
+        input, button {
+            width: 50%;
+            border: 1px solid black;
+        }
+        .logo {
+            color: black;
+            font-size: 30px;
+        }
